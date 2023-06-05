@@ -1,11 +1,15 @@
-# FLCNet
-## 1. Camouflaged Object Detection with a Feature Lateral Connection Network
+# Camouflaged Object Detection with a Feature Lateral Connection Network (FLCNet)
+## 1. Required libraries
 numpy 
+
 scikit-image 
+
 PIL 
+
 PyTorch =1.10.0
+
 torchvision
-glob  
+
 opencv
 
 
